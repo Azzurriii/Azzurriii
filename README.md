@@ -1,14 +1,15 @@
-<h1 align="center">👋 Hi there! I'm Vo Tuan Thanh </h1>
+<h1 align="center">👋 Hello there! I'm Vo Tuan Thanh </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vtthanh04/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<h3 align="left">You can connect with me at:</h3>
+<p align="left">
+   <a href="https://linkedin.com/in/vtthanh04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jv98" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="happy-cat" alt="Happy">
-</p>
+---
+<div style="text-align: center;">
+    <img src="happy-cat.gif" alt="Happy">
+</div>
+
 
 ## 🚀 About Me
 
