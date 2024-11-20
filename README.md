@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="happy-cat" alt="Happy">
+</p>
+
 ## 🚀 About Me
 
 I'm a passionate developer who loves to explore and learn new technologies! 💻✨
