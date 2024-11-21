@@ -1,12 +1,6 @@
-<h1 align="center">👋 Hello there! I'm Vo Tuan Thanh </h1>
+<h1 align="center">👋 Hello there! I'm Vo Tuan Thanh</h1> <h3 align="center">Feel free to connect with me</h3> <p align="center"> <a href="https://linkedin.com/in/vtthanh04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vo Tuan Thanh LinkedIn" height="30" width="40" /></a> </p>
 
-<h3 align="left">Feel free to connect with me at</h3>
-<p align="left">
-   <a href="https://linkedin.com/in/vtthanh04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jv98" height="30" width="40" /></a>
-</p>
-
----
-<div style="text-align: center;">
+<div align="center">
     <img src="happy-cat.gif" alt="Happy">
 </div>
 
