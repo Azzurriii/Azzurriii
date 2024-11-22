@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there! I'm Vo Tuan Thanh</h1> <h3 align="center">Feel free to connect with me</h3> <p align="center"> <a href="https://linkedin.com/in/vtthanh04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vo Tuan Thanh LinkedIn" height="30" width="40" /></a> </p>
 
 <div align="center">
-    <img src="happy-cat.gif" alt="Happy">
+    <img src="cozy-cozy-pepe.gif" alt="Happy">
 </div>
 
 
