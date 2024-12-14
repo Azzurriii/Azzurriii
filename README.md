@@ -12,9 +12,6 @@
   <a href="https://www.instagram.com/vtthanh.04/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vo Tuan Thanh Instagram" height="40" width="40" />
   </a>
-  <a href="mailto:vtthanh04.qb@gmail.com.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" height="40" width="40"/>
-  </a>
 </p>
 
 
