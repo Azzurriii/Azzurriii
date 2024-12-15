@@ -6,11 +6,6 @@
   <a href="https://linkedin.com/in/vtthanh04" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vo Tuan Thanh LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://x.com/vtthanh04" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vo Tuan Thanh Twitter" height="40" width="40" />
-  </a>
-  <a href="https://www.instagram.com/vtthanh.04/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vo Tuan Thanh Instagram" height="40" width="40" />
   </a>
 </p>
 
