@@ -21,14 +21,6 @@
 - I'm a passionate **backend developer** with a keen interest in building robust and scalable systems. I enjoy architecting solutions that power applications behind the scenes, ensuring performance and reliability.
 - Recently, I've been diving deep into the world of **Web3 and blockchain**, exploring how these transformative technologies can reshape the digital landscape.
 
-## 👨‍💻 Currently Working On
-
-- 🔭 I'm currently working as a Backend Developer
-- 
-## 🌱 Currently Learning
-
-- 📚 I'm currently learning more about **advanced smart contract development with Rust** and **exploring zero-knowledge proofs** to enhance privacy in blockchain applications.
-
 ## 🛠️ Technologies & Tools
 
 <p align="center"> 
