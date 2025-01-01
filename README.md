@@ -48,4 +48,4 @@
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on exciting projects, discussing tech topics, or just chatting about the latest trends in Web3 and blockchain! Feel free to reach out. ✨
+I'm always open to collaborating on exciting projects, discussing tech topics, or just chatting about the latest trends in Web3 and blockchain! Feel free to reach out.
