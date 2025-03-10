@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-    <img src="cozy-cozy-pepe.gif" alt="Happy">
+    <img src="oia-uia.gif" alt="UIA">
 </div>
 
 ---
