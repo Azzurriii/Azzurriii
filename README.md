@@ -15,6 +15,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="image copy.png" />
+</p>
+
 ## About Me
 
 - Passionate **backend developer** with a knack for building robust, scalable systems that power seamless applications.  
