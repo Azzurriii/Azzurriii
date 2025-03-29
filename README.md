@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<div align="center">
-    <img src="fine.gif" alt="Fine">
-</div>
-
 ## About Me
 
 - Passionate **backend developer** with a knack for building robust, scalable systems that power seamless applications.  
