@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="image copy.png" />
+  <img src="pepe.png" />
 </p>
 
 ## About Me
