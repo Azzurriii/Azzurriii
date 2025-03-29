@@ -67,9 +67,6 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png&color=000000" alt="GitHub" />
-  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   </a>
