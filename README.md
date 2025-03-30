@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="pepe.png" />
-</p>
-
 ## About Me
 
 - Passionate **backend developer** with a knack for building robust, scalable systems that power seamless applications.  
