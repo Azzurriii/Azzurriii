@@ -42,6 +42,9 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   </a>
+  <a href="https://gin-gonic.com/" target="_blank">
+    <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" width= 48 height=48 alt="Gin" />
+  </a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.icons8.com/?size=48&id=9Gfx4Dfxl0JK&format=png&color=000000" alt="Express.js" />
   </a>
@@ -71,6 +74,12 @@
   </a>
   <a href="https://www.nginx.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" />
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://xitoring.com/wp-content/uploads/2024/07/rabbitmq-300x300.png" width=48 alt="RabbitMQ" />
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://docs.nats.io/~gitbook/image?url=https%3A%2F%2F1487470910-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-LqMYcZML1bsXrN3Ezg0%252Favatar.png%3Fgeneration%3D1571848018902627%26alt%3Dmedia&width=32&dpr=2&quality=100&sign=b857e0c2&sv=2" width=48 alt="RabbitMQ" />
   </a>
 </p>
 
