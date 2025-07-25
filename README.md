@@ -24,6 +24,9 @@
 
 <p align="center">
   <!-- Programming Languages -->
+  <a href="https://go.dev" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="JavaScript" />
+  </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   </a>
