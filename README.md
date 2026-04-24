@@ -1,6 +1,7 @@
-```ini
+```bash
 > cat ~/.config/thanh.conf
-
+```
+```ini
 # thanh.vo@AZZURRI
 
 [sys]
@@ -18,6 +19,8 @@ cloud=aws,gcp
 
 [work]
 focus=systems,blockchain
+at=fystack
+as=founding_engineer
 debug=begging_ai                  # it works until it doesn't
 
 [stat]
