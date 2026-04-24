@@ -29,5 +29,4 @@ mail=vtthanh04.qb@gmail.com
 li=linkedin.com/in/vtthanh04
 tg=t.me/@tuanthanh_vo
 
-# [00:00PM PANIC] nil pointer dereference — again.
 ```
