@@ -1,18 +1,33 @@
 ```
-thanh.vo@AZZURRI
-──────────────────────────────────────────────────────────────
-OS:           Arch Linux (btw)
-DE:           I use Hyprland (No DE btw)
-Languages:    Go · TypeScript · Python · SQL · Bash · Solidity
-Frameworks:   Gin · NestJS · Next.js
-Databases:    PostgreSQL · Redis · SQL Server
-DevOps:       Docker · Kubernetes · Jenkins · Vagrant (automated chaos)
-Cloud:        AWS · GCP
-Uptime:       99.9% - caffeine-powered, crashes on low supply
-Interests:    System Design · Blockchain · Begging AI to fix bugs
-Contact:      vtthanh04.qb@gmail.com
-              linkedin.com/in/vtthanh04
-              t.me/@tuanthanh_vo
-──────────────────────────────────────────────────────────────
-[00:00PM PANIC] nil pointer dereference — again.
+> cat ~/.config/thanh.conf
+
+# thanh.vo@AZZURRI
+
+[sys]
+os=arch                  # btw
+wm=hyprland              # also btw
+
+[stack]
+lang=go,ts,py,sql,bash,solidity
+fw=gin,nest,next
+db=postgres,redis,sqlserver
+
+[infra]
+ops=docker,k8s,jenkins,vagrant
+cloud=aws,gcp
+
+[work]
+focus=systems,blockchain
+debug=begging_ai                  # it works until it doesn't
+
+[stat]
+uptime=99.9%             # the 0.1% was touching prod at midnight
+mode=caffeinated
+
+[contact]
+mail=vtthanh04.qb@gmail.com
+li=linkedin.com/in/vtthanh04
+tg=t.me/@tuanthanh_vo
+
+# [00:00PM PANIC] nil pointer dereference — again.
 ```
