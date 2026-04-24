@@ -1,4 +1,4 @@
-```
+```ini
 > cat ~/.config/thanh.conf
 
 # thanh.vo@AZZURRI
