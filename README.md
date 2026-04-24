@@ -24,7 +24,7 @@ as=founding_engineer
 debug=begging_ai                  # it works until it doesn't
 
 [stat]
-uptime=99.9%             # the 0.1% was touching prod at midnight
+uptime=99.9%
 mode=caffeinated
 
 [contact]
